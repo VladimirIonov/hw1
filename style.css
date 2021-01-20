@@ -1,0 +1,24 @@
+html, body {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    
+    a, a:link {
+    color: black;
+    }
+    a:hover {
+    color: orange;
+    }
+    
+    footer {
+    width: 100vw;
+    padding: 10px;
+    background: #555;
+    text-align: center;
+    }
+    
+    footer span {
+    font-weight: 900;
+    }

@@ -13,6 +13,7 @@ body,html {
 .wrapper {
     min-height: 100%;
     padding-bottom: 80px;
+    background: rgb(207, 207, 207);
 }
 
 footer {
@@ -24,6 +25,7 @@ footer p{
     text-align: center;   
 }
 header {
+
 
     background-color:gray;
     width: 100%;
@@ -62,4 +64,7 @@ button {
     overflow: hidden;
     outline:none;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a03101d45643e8477a2e0635a65ce99845f4931a

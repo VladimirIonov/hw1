@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body,html {
+    background-color: white;
+    height: 100%;
+    
+}
+
+.wrapper {
+    min-height: 100%;
+    padding-bottom: 80px;
+}
+
+footer {
+    background-color: gray;
+    height: 40px; 
+    margin-top: -40px;   
+}
+footer p{
+    text-align: center;   
+}
+header {
+      background-color:gray;
+      height: 80px; 
+  }

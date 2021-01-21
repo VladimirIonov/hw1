@@ -24,6 +24,42 @@ footer p{
     text-align: center;   
 }
 header {
-      background-color:gray;
-      height: 80px; 
+
+    background-color:gray;
+    width: 100%;
+    display: block;
+    background: url(image/header.jpg)  repeat center center;
+    height: 250px; 
   }
+ 
+  .glavblok { 
+    position: absolute;
+    background: gray; 
+    border: 2px solid #ff7402;
+    width: 800px; 
+    height: 140px;
+    margin-top: 80px;
+    margin-left: 25%;
+    
+}
+
+.blok { 
+    display: inline-block;
+    background:  #ff7402; 
+    border: 2px solid  gray;
+    width: 180px; 
+    height: 40px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+button {
+    margin-top: 8px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+
